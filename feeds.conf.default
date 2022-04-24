@@ -4,6 +4,6 @@ src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git Boos https://github.com/Boos4721/OpenWrt-Packages.git
 #src-git helloworld https://github.com/fw876/helloworld
-#src-git kenzo https://github.com/jtzx082/openwrt-packages
+#src-git jtzx082 https://github.com/jtzx082/openwrt-packages
 #src-git small https://github.com/jtzx082/small
-src-git jtzx082 https://github.com/jtzx082/small-package
+src-git small8 https://github.com/jtzx082/small-package
